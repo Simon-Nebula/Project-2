@@ -1,3 +1,32 @@
 @charset "UTF-8";
 /* CSS Document */
+.nav-item {
+	background-color: #B8C59D;
+	font-family: 'Neuton', serif;
+}
+.all {
+	background-image:url("Images P2/Noodle.png")
+}
+h2 {
+	background-color: #F8978A;
+	font-family: 'Neuton', serif;
+	
+}
 
+h4 { 
+	background-color: aliceblue;
+	font-family: 'Patrick Hand SC', cursive;
+	background: rgba(76, 175, 80, 0.3)
+	
+	
+}
+h3 { 
+	background-color: aliceblue;
+	font-family: 'Patrick Hand SC', cursive;
+	background: rgba(76, 175, 80, 0.3)
+	
+}
+.paragraph {
+	background-color: aliceblue;
+	background: rgba(76, 175, 80, 0.3)
+}
