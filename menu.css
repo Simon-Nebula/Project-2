@@ -8,12 +8,16 @@ body {
 .col {
 	background-color: white;
 	padding-bottom:20px;
+	margin: 20px;
 	
 }
 
 h2 {
 	padding: 20px;
 	background-color:#F8978A;
+	margin-left: 40px;
+	margin-right: 40%;
+	margin-top: 20px;
 }
 
 footer {
@@ -34,4 +38,23 @@ nav {
 
 .navbar-brand {
 	font: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+}
+
+@media only screen and (max-width: 1000px) {
+
+	.col {
+		display: flex;
+		font-size: 30px;
+	}	
+
+.navbar-brand {
+	font-size: 50px;
+}
+nav {
+	font-size: 30px;
+}
+	.container{
+		margin:0%;
+	}
+
 }
