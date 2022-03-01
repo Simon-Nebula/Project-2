@@ -61,9 +61,12 @@ nav {
 
 .navbar-brand {
 	font-size: 70px;
+	padding-left:25%;
 }
 nav {
 	font-size: 30px;
+	text-align-last: center;
+
 }
 	.container{
 		margin:8%;
@@ -78,6 +81,7 @@ nav {
 	}
 	footer{
 		font-size: 30px;
+		text-align-last: center;
 	}
 
 }
