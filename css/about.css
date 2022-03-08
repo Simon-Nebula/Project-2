@@ -22,6 +22,7 @@ h4 {
 	
 	font-family: 'Neuton', serif;
 	background: rgb(255, 255, 255);
+	display:grid;
 	
 	
 }
@@ -34,9 +35,13 @@ h3 {
 
 	background: rgb(255, 255, 255);
 	text-align:center;
+	padding: 45px;
+	font-size: 30px;
 
 }
 .story {
 	font-size: 40px;
+	padding: 30px;
+	
 }
 
