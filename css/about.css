@@ -1,9 +1,6 @@
 @charset "UTF-8";
 /* CSS Document */
-.nav-item {
-	background-color: #B8C59D;
-	font-family: 'Neuton', serif;
-}
+
 body {
 	background-image:url(../images/Noodle.png);
 }
