@@ -15,26 +15,29 @@ nav {
 h2 {
 text-align: center;
 	font-family: 'Neuton', serif;
+	margin-top: 10px;
 	
 }
 
 h4 { 
 	
 	font-family: 'Neuton', serif;
-	background: rgb(255, 255, 255);
-	text-align: center;
+	font-size: 40px;
+	margin-left: 5%;
+	
 	
 	
 }
 .lady {
-	margin-left: 31%;
+	margin-left: 1%;
 }
 .noodle {
-	margin-left:25%;
+	margin-left:2%;
 
 
 }
 .container {
+	margin-top: 100px;
 	align-items: center;
 }
 h3 { 
