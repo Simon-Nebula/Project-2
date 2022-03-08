@@ -3,7 +3,8 @@
 
 body {
 
-	background-image:url(../images/the-noodle-cave-1.jpg);
+	background-image:url(../images/Noodle.png);
+	size:100%;
 
 }
 
@@ -43,6 +44,7 @@ footer {
 
 nav {
 	background-color:#B8C59D;
+	
 }
 
 .navbar-brand {
