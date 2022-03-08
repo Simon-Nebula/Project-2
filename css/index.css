@@ -5,6 +5,14 @@ body{
 	font-family: 'Raleway',sans-serif;
 	color: #fff;
 }
+nav {
+	background-color:#B8C59D;
+}
+
+.navbar-brand {
+	font-family: 'Neuton', serif;
+	font-size: 30px;
+}
 .banner{
 	height: 100vh;
 	width: 100%;
@@ -30,14 +38,7 @@ body{
 	color:rgb(255, 255, 255);
 	font-size: 1.2em;
 }
-nav {
-	background-color:#B8C59D;
-}
 
-.navbar-brand {
-	font-family: 'Neuton', serif;
-	font-size: 30px;
-}
 .banner .info{
 	margin-top:15%;
 	transform: translateY(-15%);
@@ -58,13 +59,13 @@ nav {
 	margin-left:50%;
 	transform: translateX(-50%);
 	color: #fff;
-	background: #e91d43;
+	background: #F8978A;
 	padding:10px 20px; 
 	font-size: 2em;
 	font-weight: 600;
 }
 .banner .info a:hover{
-	background: #e91e63;
+	background: #B8C59D;
 }
 
 
