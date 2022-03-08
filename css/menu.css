@@ -16,11 +16,11 @@ body {
 }
 
 h2 {
-	padding: 20px;
-	background-color:#B8C59D;
-	margin-left: 12%;
-	margin-right: 38%;
-	margin-top: 20px;
+	margin-left: 30%;
+	margin-right: 30%;
+	text-align-last: center;
+	margin-top:10px;
+	margin-bottom: 5px;
 	font-family: 'Neuton', serif;
 }
 .tt{
@@ -31,7 +31,7 @@ h2 {
 
 footer {
 	background-color:#F8978A;
-	padding-bottom: 20%;
+	padding-bottom: 10%;
 	padding-left: 20px;
 	color: white;
 	padding-top: 20px;
