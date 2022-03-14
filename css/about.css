@@ -67,10 +67,15 @@ footer {
 	
 }
 @media only screen and (max-width: 600px) {
+	
 	footer{
 		font-size: 30px;
 		text-align-last: center;
 	}
+	.photos {
+		align-items:center;
+	}
+
 	.paragraph {
 
 		background: rgb(255, 255, 255);
@@ -78,10 +83,7 @@ footer {
 		padding: 45px;
 		font-size: 30px;
 	
-	}
-	.photos { 
-		display:flex;
-	}
+
 
 
 
