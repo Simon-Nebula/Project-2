@@ -77,12 +77,11 @@ footer {
 		text-align:center;
 		padding: 45px;
 		font-size: 30px;
+	
 	}
-	.row {
-		align-items: center;
+	.photos { 
+		display:flex;
 	}
 
-
-}
 
 
